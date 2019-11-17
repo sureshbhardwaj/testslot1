@@ -5,7 +5,7 @@
         "vmSize": {
             "type": "string",
             "metadata": {
-                "description": "Virtual machine size"
+                "description": "B2ms"
             }
         },
       "vmName": {
